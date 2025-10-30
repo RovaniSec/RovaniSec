@@ -10,7 +10,7 @@ Estou atualmente no **2º semestre** do curso de Segurança da Informação, foc
 Aqui estão as certificações e badges que conquistei através da Cisco Networking Academy, validando meu conhecimento em <Área de Conhecimento>.
 
 <a href="https://www.credly.com/badges/1768ae39-8b7b-4b9d-88b0-05f96b7e6469" target="_blank">
-    <img src="https://drive.google.com/file/d/1IxmUPwN14ekWD2AkM6t75X2tCkXiFGOz/view?usp=sharing" alt="Introduçao a Cibersegurança" width="100"/>
+    <img src="https://www.credly.com/org/cisco/badge/networking-basics" alt="Introduçao a Cibersegurança" width="100"/>
 </a>
 <a href="https://www.credly.com/badges/60e5ed60-745b-47cd-b262-6421ccdb0b74" target="_blank">
     <img src="https://drive.google.com/file/d/1gMXx8I5FXm86PbOeCkZ8fJiPlOQLTqmU/view?usp=sharing" alt="Básico de Redes" width="100"/>
